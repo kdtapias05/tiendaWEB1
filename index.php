@@ -33,14 +33,19 @@
                 </form>
                 <form action="bodega.php">
                     <div class="row">
-                        <button type="submit" class="btn_bottom" name="bodega">Ver bodega</button>
+                        <button type="submit" class="btn_middle" name="bodega">Ver bodega</button>
+                    </div>
+                </form> 
+                <form action="Generar.php" method="POST" id="Generar">
+                    <div class="row">
+                        <button type="submit" class="btn_bottom" name="Generar">Generar Csv</button>
                     </div>
                 </form> 
             </div>
         </div>
         <footer style="text-align: center;">
-                <p style="font-size: 14px; color: white;" style="vertical-align: middle;"><br>Tosos los derechos reservados On-Feeling 2020.</p>
-            </footer>
+            <p style="font-size: 14px; color: white;" style="vertical-align: middle;"><br>Todos los derechos reservados On-Feeling 2020.</p>
+        </footer>
     </div>
     
 

@@ -1,0 +1,12 @@
+id,nombre,marca,precio,descripcion
+11,"Materita Buda","On Feeling",20000,"Materita en ceramica, con diseño de buda, color a eleccion, incluye 1 planta"
+10,"Materita Corazon","On Feeling",22000,"Materita en ceramica, con diseño en forma de corazon, incluye 3 plantas"
+9,"Materita Perro","On Feeling",23000,"Materita en ceramica, en variados diseños de perritos, incluye 1 planta"
+8,"Terrario Grande","On Feeling",50000,"Terrario en forma circular, incluye 7 plantas, piedra decorativa y se puede colgar"
+7,"Velon Diagonal","On Feeling",28000,"Velon corte diagonal de vidrio, incluye 3 plantas y piedras decorativas"
+6,"Burbuja Mini","On Feeling",17000,"Burbuja de vidrio en tamaño pequeño, incluye 1 planta y piedra decorativa"
+5,"Materita Groot","On Feeling",23000,"Materita de ceramica en forma de Groot en diferentes diseños, incluye 1 planta"
+4,"Ceramicas Animalitos","On Feeling",20000,"Materitos en ceramica, con variados diseños de animalitos, incluye 1 planta"
+3,"Terrario Mediano","On Feeling",40000,"Terrario en forma circular, incluye 5 plantas y se puede colgar"
+2,"Terrario Manzana","On Feeling",40000,"Terrario en forma de manzana, incluye 4 plantas, piedras decorativas,se puede ubicar sobre una superficie plana o colgar"
+1,Maderito,"On Feeling",25000,"Materito de madera, con grabado personalizado en una cara e incluye una planta"
